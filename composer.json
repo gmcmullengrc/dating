@@ -1,0 +1,12 @@
+{
+  "name": "SDEV328inclass/dating",
+  "authors": [
+    {
+      "name": "George McMullen",
+      "email": "gmcmullen@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
