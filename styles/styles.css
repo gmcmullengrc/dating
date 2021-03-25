@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a.nav-link {
+    text-decoration: none;
+}
+
+.logo {
+    margin-right:150px;
+}
+
+.container {
+    width: 1000px;
+}
