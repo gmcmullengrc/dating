@@ -6,18 +6,29 @@ h1 {
     color: white;
 }
 
-ul {
-    list-style-type: none;
-}
 
 a.nav-link {
     text-decoration: none;
 }
 
-.logo {
-    margin-right:150px;
+.promotional {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
-.container {
-    width: 1000px;
+.white {
+    margin: 100px 0px 0px 0px;
+    width: 100%;
+    height: 300px;
+}
+
+.text {
+    text-align: center;
+}
+
+.login {
+    display: inline;
+    float: right;
 }
